@@ -7,5 +7,6 @@ int main()
    cout <<"Hello from Di and DArt"<< endl;
    cout <<"<3"<<endl;
    cout << "Fork!" << endl;
+   cout << "Fork!" << endl;
    return 0;
 }
